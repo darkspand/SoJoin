@@ -1,0 +1,2 @@
+# SoJoin
+Only SonOyuncu Launcher
